@@ -36,8 +36,12 @@ The Power BI dashboard visualizes the data to answer key business questions and 
 
 Below are screenshots of the Power BI dashboard:
 
-![Power BI Dashboard Screenshot 1](dashboard_image_1.png)
-![Power BI Dashboard Screenshot 2](dashboard_image_2.png)
+![Power BI Overall Dashboard](Overall.png)
+![Power BI Vehicle Type Dashboard](Vehicle_Type.png)
+![Power BI Revenue Dashboard](Revenue.png)
+![Power BI Cancellation Dashboard](Cancellation.png)
+![Power BI Ratings Dashboard](Ratings.png)
+
 
 ## How to Use
 
