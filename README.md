@@ -55,10 +55,6 @@ Below are screenshots of the Power BI dashboard:
 - **SQL**: For querying and extracting insights from the database.
 - **Power BI**: For creating interactive visualizations and dashboards.
 
-## License
-
-This project is licensed under the MIT License. Feel free to use, modify, and share it.
-
 ## Acknowledgements
 
 Special thanks to Ola ride data and resources used for building this project.
